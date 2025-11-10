@@ -1,0 +1,16 @@
+{
+  "name": "if_number_is_7",
+  "version": "1.0.0",
+  "description": "A simple npm package to check if a number is 7",
+  "main": "index.js",
+  "keywords": ["number", "check", "seven"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "If_number_is_7"
+  },
+  "author": "Sifou",
+  "license": "MIT"
+}
